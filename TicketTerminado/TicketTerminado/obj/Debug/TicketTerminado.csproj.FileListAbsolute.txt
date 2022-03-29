@@ -1,8 +1,0 @@
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\bin\Debug\TicketTerminado.exe.config
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\bin\Debug\TicketTerminado.exe
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\bin\Debug\TicketTerminado.pdb
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\obj\Debug\TicketTerminado.csproj.AssemblyReference.cache
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\obj\Debug\TicketTerminado.csproj.SuggestedBindingRedirects.cache
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\obj\Debug\TicketTerminado.csproj.CoreCompileInputs.cache
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\obj\Debug\TicketTerminado.exe
-C:\Users\renev\Desktop\TicketTerminado\TicketTerminado\obj\Debug\TicketTerminado.pdb
